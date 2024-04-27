@@ -1,0 +1,6 @@
+.inputer{
+    color:rgb(159, 212, 195);
+    font-size: 12px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    list-style: none; /* 去除默认小黑点 */
+}
